@@ -19,3 +19,4 @@ const num4 = new Number(100000)
 // toLocaleString converts into string from number and return the number 
 // after adding commas like if number is '100000' then it returns '1,00,000'
 console.log(num4.toLocaleString());
+console.log(num4.toLocaleString());
