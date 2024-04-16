@@ -29,5 +29,6 @@ console.log(name4.__proto__);
 console.log(typeof(name3));
 
 const name5 = new String('HAI DER')
+const name5 = new String('HAI DER')
 //replace method
 console.log(name5.replace(' ','%'));
